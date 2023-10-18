@@ -10,7 +10,7 @@ Follow the link to the deployed application to see the webpage in action. Follow
 
 ## Usage
 
-GitHub Link: - https://scottgcode.github.io/week1challenge/
+GitHub Link: - https://github.com/ScottGCode/HoriseonMarketingRefactor 
 
 Deployed Application Link: - https://scottgcode.github.io/HoriseonMarketingRefactor/
 
