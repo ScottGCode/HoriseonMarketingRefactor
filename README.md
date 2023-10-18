@@ -2,22 +2,23 @@
 
 ## Description
 
-I was motivated to clean up this website. I started by removing any non-semantic HTML elements and replacing them with easier to read semantic elements. This makes the code much more readable and easier to work on. I also added alt attributes to the images to make the website more accessible. I leanred how to group together css styling to make it easier to read and work on. 
+I was motivated to refactor this code to make it more readable and user friendly. I started by removing any non-semantic HTML elements and replacing them with easier to read semantic elements. This makes the code much more readable and easier to work on. I also added alt attributes to the images to make the website more accessible. I leanred how to group together css styling to make it easier to read and work on. 
 
 ## Installation
 
-Follow URL link to see the webpage in action. Open up chrome dev tools to see associated styling. 
+Follow the link to the deployed application to see the webpage in action. Follow the GitHub link to view the source code. Open up styles.css to view the CSS. In your browswer open up chrome dev tools to see styling and responsiveness. 
 
 ## Usage
 
-**ADD SCREENSHOT AND LINK HERE**
-https://scottgcode.github.io/week1challenge/
+GitHub Link: - https://scottgcode.github.io/week1challenge/
 
-Here is a few screenshot previews of the webpage. 
+Deployed Application Link: - https://scottgcode.github.io/HoriseonMarketingRefactor/
 
-![screenshot of webpage 1](<../../bootcamp/UofU-VIRT-FSF-PT-08-2023-U-LOLC/UofU-VIRT-FSF-PT-08-2023-U-LOLC-3/01-HTML-Git-CSS/02-Challenge/Develop/images/Screenshot 2023-08-29 at 11.38.45 AM.png>)
+Screenshot examples:
 
-![screenshot of webpage 2](<../../bootcamp/UofU-VIRT-FSF-PT-08-2023-U-LOLC/UofU-VIRT-FSF-PT-08-2023-U-LOLC-3/01-HTML-Git-CSS/02-Challenge/Develop/images/Screenshot 2023-08-29 at 11.38.34 AM.png>)
+![screenshot of webpage 1](<./assets/images/Screenshot 2023-10-18 at 8.57.20 AM.png>)
+
+![screenshot of webpage 2](<./assets/images/Screenshot 2023-10-18 at 8.57.45 AM.png>)
 
 
 ## License
